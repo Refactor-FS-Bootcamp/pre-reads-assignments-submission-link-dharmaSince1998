@@ -1,0 +1,31 @@
+.box p{
+    /* border-top: 5px double yellowgreen; */
+    color:thistle;
+    margin: auto;
+    padding: 5px 5px;
+    border: 5px double yellowgreen;
+    /* border-bottom: 5px double; */
+}
+.box h2{
+    color: orangered;
+}
+
+.box p{
+    font-size: large;
+}
+
+body{
+    background-color: darkslateblue;
+}
+
+.padding p{
+    margin: auto;
+    outline:solid yellowgreen;
+    border:solid ;
+    border-radius: 1000px;
+    padding:5px 10px 5px 10px;
+    font-size: x-large;
+}
+img{
+    border-radius: 1400px;
+}
